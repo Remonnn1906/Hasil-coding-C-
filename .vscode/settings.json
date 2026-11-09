@@ -1,3 +1,4 @@
 {
-    "C_Cpp.default.compilerPath": "c:\\Users\\INFINIX\\OneDrive\\Apps\\belajarC++\\.cpp"
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.shellIntegration.enabled": true
 }
